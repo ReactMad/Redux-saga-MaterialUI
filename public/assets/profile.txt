@@ -1,0 +1,37 @@
+Over the last 6 years, I have developed a wide range of web apps for small to big enterprises. 
+Importantly, I have rich hands-on expreience in web development along with implementing highly-responsive user interface components by deploying React concepts and this is definitely one thing that could give me an edge over others.
+I am proficient in translating designs and wireframes into high-quality code with best-practise design patterns from the very beginning. 
+What truely sets me apart from the others is that I am a super user of UI libraries including Google Material UI, so this means that I can bring your idea into reality in very short period of time with perfect result.
+
+As for my personal characteristic, I thrive on challenge, I work well under pressure and I would describe myself as detail-oriented and proactive.
+And also, as a committed team player, I could leverage all of my knowledge and experience to easily adapt to the new situations and work environments.
+
+
+Key Skills
+    * Front End Architecture
+    * Performance Improvement
+    * Feature Designing 
+    * Webpage Optimization
+    * Project Delivery
+
+Tech Skills
+    - Languages
+        * HTML
+        * CSS/SCSS/SASS/LESS
+        * CSS in JS - Styled Components, JSS, Radium
+        * Javascript/ES6
+
+    - Frameworks & libraries
+        * ReactJS (Hook, Context, Concurrent Mode)
+        * Redux (Redux-Thunk, Redux-Saga, Redux-Promise)
+        * i18n - React-Intl, React i18next
+        * API Client - REST, GraphQL
+        * SSR - Next.js & SSG - Gatsby
+        * Testing - Jest, Selenium
+        * Utilities - Lodash, Moment, classnames, ImmutableJS...
+
+    - UI Kit
+        * Material UI - Extensive experience in MUI including Fuse theme customization
+        * Ant Design 
+        * Tailwind
+        * Bulma
